@@ -11,8 +11,11 @@ Edita;
 Remove;
 
 Gera relatório em PDF para download com os dados cadastrados;
-Tenologias Utilizadas
+
+Tenologias Utilizadas:
 
 Spring Boot
+
 CRUD Repository
+
 Thymeleaf
